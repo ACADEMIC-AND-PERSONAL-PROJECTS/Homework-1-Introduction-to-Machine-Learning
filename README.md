@@ -9,16 +9,7 @@
 </div>
 
 <!-- FLOATING ANIMATION CSS -->
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-}
-.anime-float {
-  animation: float 3s ease-in-out infinite;
-  display: inline-block;
-}
-</style>
+
 
 <!-- TECH ICONS -->
 <p align="center">
@@ -47,7 +38,7 @@ The **car_fuel_efficiency_2026.csv** dataset contains 10,000 vehicle records wit
 </td>
 <td width="40%" align="center">
 
-<img src="avatar.png" width="180" alt="Avatar" style="border-radius: 20px; object-fit: cover;">
+<img src="avatar.png" width="400" alt="Avatar" style="border-radius: 20px; object-fit: cover;">
 
 </td>
 </tr>
